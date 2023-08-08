@@ -1,0 +1,19 @@
+Threads Archivos , Threads Maximo , Tiempo En Cargar Archivos, Tiempo en buscar Maximo, Tiempo de Programa, cantidad de archivos
+1, 1, 0.028ms, 0.3ms, 97.774ms, 1
+2, 2, 0.018ms, 0.282ms, 46.853ms, 1
+3, 3, 0.031ms, 0.318ms, 65.449ms, 1
+4, 4, 0.02ms, 0.408ms, 42.149ms, 1
+7, 7, 0.029ms, 0.893ms, 44.15ms, 1
+8, 8, 0.02ms, 1.015ms, 43.111ms, 1
+9, 9, 0.018ms, 1.475ms, 47.893ms, 1
+10, 10, 0.017ms, 1.535ms, 43.5ms, 1
+11, 11, 0.018ms, 1.346ms, 45.307ms, 1
+ 12, 12, 0.019ms, 1.403ms, 45.214ms, 1
+ 13, 13, 0.02ms, 1.674ms, 44.789ms, 1
+ 14, 14, 0.019ms, 2.065ms, 44.822ms, 1
+ 15, 15, 0.027ms, 1.845ms, 45.461ms, 1
+18, 18, 0.018ms, 2.962ms, 49.1ms, 1
+20, 20, 0.019ms, 2.34ms, 47.363ms, 1
+22, 22, 0.018ms, 4.191ms, 46.849ms, 1
+23, 23, 0.018ms, 3.171ms, 51.574ms, 1
+25, 25, 0.018ms, 3.689ms, 45.788ms, 1
