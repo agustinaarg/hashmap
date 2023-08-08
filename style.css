@@ -1,28 +1,38 @@
 body{
-    background-color: rgb(135, 224, 140);
+    background-color: rgb(124, 221, 86);
 }
 
 h1{
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: rgb(17, 17, 17);
+    color: rgb(37, 36, 36);
 }
 
 p{
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: rgb(17, 17, 17);
+    color: rgb(37, 36, 36);
     margin: 20px;
 }
 
 .add_word{
     display: flex;
     flex-direction: row;
+    align-items: center;
+    justify-content: center;
 }
 
 .input_css{
-    width: 30%;
+    width: 20%;
     height: 10%;
+    margin: 20px;
+}
+
+.button_css{
+    width: 10%;
+    height: 10%;
+    margin: 20px;
+
 }
 
 .letters{
@@ -35,18 +45,18 @@ ul {
     padding: 0;
     margin: 20px auto; /* Centrar la lista */
     width: 50%; /* Ancho de la lista */
-    border: 2px solid rgb(17, 17, 17);; /* Borde de la lista */
+    border: 2px solid rgb(37, 36, 36);; /* Borde de la lista */
   }
 
   li {
     text-align: center;
     padding: 10px; /* Espacio interno de cada elemento de la lista */
-    border-bottom: 1px solid rgb(17, 17, 17);; /* Borde inferior de cada elemento */
+    border-bottom: 1px solid rgb(37, 36, 36);; /* Borde inferior de cada elemento */
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
 
  button{
-    background-color: rgb(58, 230, 58);
+    background-color: rgb(23, 163, 23);
     border: 2px solid s(42, 46, 42);
     border-radius: 10%;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;

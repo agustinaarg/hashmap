@@ -96,8 +96,9 @@ boton.addEventListener('click', addi);
 
 function addi(){
     let valore = new_w.value;
-    console.log(valore);
+    //console.log(valore);
     add(valore);
+    input.style.display = 'none';
 }
 
    
