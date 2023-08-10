@@ -1,3 +1,4 @@
+# hashmap 
 #Español
 En estas implementaciones de hashmap los valores de las claves representan la cantidad de veces que esa clave fue insertada. En la carpeta 
 hashmap-concurrente-c se encuentra una implementación de c++ de un hashmap utilizando herramientas de sincronización, como semáforos o variables
